@@ -74,7 +74,7 @@ Para más información visite [aquí](https://stackoverflow.com/questions/705374
 
 El resultado final del dibujado de cuadros delimitadores en una imagen se ve de la siguiente manera:
 <div style = "text-align:center;">
-<img src='images_readme/img7.png'  width='50%'>
+<img src='images_readme/img7.png'  width='100%'>
 </div>
 
 
